@@ -13,8 +13,4 @@ function changeCompletely(element,index,array) {
   array[index]=(Math.random()*100).toString() + '!!!'
 }
 // Add your changeCompletely() function here:
-//var animals=["dogs","fish","cat"];
 
-/*function doToElementsInArray(animals,changeCompletely) {
-    console.log(animals)
-}

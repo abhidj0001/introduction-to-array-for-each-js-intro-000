@@ -13,4 +13,3 @@ function changeCompletely(element,index,array) {
   array[index]=(Math.random()*100).toString() + '!!!'
 }
 // Add your changeCompletely() function here:
-
